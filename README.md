@@ -17,3 +17,6 @@ Created by **Ikhsan** and **Dayan**, 7th-grade students who wanted to solve the 
 2. Open `chrome://extensions/` in your browser.
 3. Enable **Developer mode** (toggle in the top right).
 4. Click **Load unpacked** and select the folder with the project.
+
+(It is just start) 
+(website don't have file)
