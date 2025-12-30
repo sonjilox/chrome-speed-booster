@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "CSB - Chrome Speed Booster",
+  "version": "2.0",
+  "description": "Optimizes Chrome performance by managing tabs and RAM.",
+  "permissions": ["tabs", "storage", "alarms"],
+  "action": {
+    "default_popup": "index.html"
+  },
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}
